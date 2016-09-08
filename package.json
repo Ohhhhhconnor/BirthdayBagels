@@ -1,0 +1,17 @@
+{
+  "name": "birthdaybagels",
+  "version": "0.1.0",
+  "description": "A web app to let people know if there are bagels",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jordanmoconnor@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "sendgrid": "^3.0.5"
+  }
+}

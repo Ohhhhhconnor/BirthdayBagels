@@ -1,0 +1,41 @@
+<% include partials/header %>
+
+<div class="container">
+    <div class="child">
+        <div class="row">
+          <% if(eventData.confirmed && today < confirmDate) { %>
+            <div class="ten columns offset-by-one column post_data">
+                <h1 class="upper"><%= eventData.who %> brought in <%= eventData.what %></h1>
+                <h4 class="upper">Don't forget to say thanks!</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="eight columns offset-by-two fix_error">
+                <p class="upper">Want to add a name, or fix an error?</p>
+                <form action="/fix" method="POST">
+                    <button class="center" type="submit">Redo Today's Post</button>
+                </form>
+            </div>
+        </div>
+                <% } else { %>
+                <% eventData.confirmed = 0 %>
+            <div class="ten columns offset-by-one column">
+                <h1 class="upper">Did you bring something in?</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="six columns offset-by-three columns">
+                <form action="/" method="POST">
+                    <span><input class="upper" type="text" name="who" placeholder="Someone awesome" required>
+                    <h3 class="upper">brought in</h3><input class="upper" name="what" type="text" placeholder="bagels" required></span>
+                    <button class="center" type="submit">Go!</button>
+                </form>
+            </div>
+        </div>
+        <% } %>
+        <p class="upper">&copy; Corning Tropel 2016</p>
+        <p class="upper">Last updated: 8/1/2016</p>
+    </div>
+</div>
+
+<% include partials/footer %>

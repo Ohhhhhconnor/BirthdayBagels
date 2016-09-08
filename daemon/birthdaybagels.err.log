@@ -1,0 +1,242 @@
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\Windows\system32\views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:27:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\birthdayBagels../views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:28:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\birthdayBagels../views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:28:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)
+Error: Failed to lookup view "home" in views directory "C:\birthdayBagels../views"
+    at EventEmitter.render (C:\birthdayBagels\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (C:\birthdayBagels\node_modules\express\lib\response.js:961:7)
+    at C:\birthdayBagels\app.js:28:9
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (C:\birthdayBagels\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\birthdayBagels\node_modules\express\lib\router\layer.js:95:5)
+    at C:\birthdayBagels\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (C:\birthdayBagels\node_modules\express\lib\router\index.js:330:12)
+    at next (C:\birthdayBagels\node_modules\express\lib\router\index.js:271:10)

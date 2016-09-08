@@ -1,0 +1,48 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	background-color: #EEEEEE;
+}
+
+.upper {
+    color: #005293;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.center {
+    display:block;
+    margin: 0 auto;
+}
+
+span, input {
+    display:table;
+    margin:0 auto;
+    margin-bottom: 15px;
+}
+
+.container {
+    height: 100%;
+}
+
+.child {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+button {
+    color: #005293;
+}
+
+.post_data {
+	background-color: #dbdbdb;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.fix_error {
+	padding-top: 20px;
+}
